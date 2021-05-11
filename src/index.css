@@ -43,7 +43,8 @@
   font-weight: 600;
 }
 .right-menu > ul > li > a:hover{
-  background-color: rgba(230, 222, 222, 0.4);
+  opacity: 0.1;
+  color: blue;
 }
 .right-menu ul li .btn{
   background: #cf3f74;
