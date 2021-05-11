@@ -6,7 +6,7 @@ import 'aos/dist/aos.css';
 const FeatureSection = () => {
     useEffect(() =>{
         Aos.init({
-            duration:2000
+            duration:3000
         });
     }, [])
     return (
